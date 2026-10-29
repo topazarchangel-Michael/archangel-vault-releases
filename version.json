@@ -1,7 +1,13 @@
 {
-  "latestVersion": "0.2.1",
-  "latestBuild": 3,
-  "whatsNew": ["Real free cloud sync via your private GitHub repo", "Hosted update feed", "Play upload signing", "Gemini AI provider", "Offline queue"],
+  "latestVersion": "0.2.2",
+  "latestBuild": 4,
+  "whatsNew": [
+    "Hosted Privacy Policy, Terms and Owner Rights",
+    "Legal screen links to public pages",
+    "Real free cloud sync via your private GitHub repo",
+    "Hosted update feed",
+    "Play upload signing"
+  ],
   "playStoreUrl": "https://play.google.com/store/apps/details?id=com.archangel.vaultai",
   "apkUrl": ""
 }
